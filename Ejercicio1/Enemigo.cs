@@ -26,7 +26,7 @@ namespace Ejercicio1
                 }
                 else
                 {
-                    throw new Exception("No se cuenta con la cantidad de puntos necesarios para ganar.");
+                    throw new Exception("El valor debe ser mayor a 100");
                 }
 
             }
